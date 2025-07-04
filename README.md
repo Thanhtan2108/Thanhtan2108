@@ -6,7 +6,7 @@
 
 ## 👋 Xin chào, mình là Ngô Thanh Tân!
 
-- 🎓 Sinh viên ngành Công Nghệ Kỹ Thuật Máy Tính tại trường Đại học Sư Phạm Kỹ TP.HCM
+- 🎓 Sinh viên ngành Công Nghệ Kỹ Thuật Máy Tính tại Trường Đại học Sư Phạm Kỹ TP.HCM
 - 🛠️ Ngôn ngữ lập trình chính: **C, C++, Python**
 - 🤖 Đam mê: IoT, hệ thống nhúng
 - 🧰 Công cụ: VS Code, PlatformIO, Arduino IDE, Keil C, Proteus,
