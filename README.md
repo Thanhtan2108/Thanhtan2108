@@ -22,15 +22,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/PlatformIO-4BC51D?logo=platformio&logoColor=white&style=flat-square" alt="PlatformIO" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Keil%20C-000000?logo=arm&logoColor=white&style=flat-square" alt="Keil C" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Proteus-262261?logo=labview&logoColor=white&style=flat-square" alt="Proteus" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PlatformIO-4BC51D?logo=platformio&logoColor=white&style=flat-square" alt="PlatformIO" width="50" height="40"/>
+  <img src="https://img.shields.io/badge/Keil%20C-000000?logo=arm&logoColor=white&style=flat-square" alt="Keil C" width="50" height="40"/>
+  <img src="https://img.shields.io/badge/Proteus-262261?logo=labview&logoColor=white&style=flat-square" alt="Proteus" width="50" height="40"/>
 </p>
 
 ---
 
 ## 📫 Liên hệ với mình qua:
 
-- ✉️ Email: [nthanhtan2004@gmail.com]
+- ✉️ Email: nthanhtan2004@gmail.com
 - 🔗 Facebook: https://www.facebook.com/?locale=vi_VN
 - 💬 LinkedIn: https://www.linkedin.com/in/ngothanhtan/
