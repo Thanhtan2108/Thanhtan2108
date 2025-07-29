@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Rất vui khi bạn ghé thăm ^_^</strong>
+  <strong>Rất vui khi được bạn ghé thăm ^_^</strong>
 </p>
 <hr />
 
@@ -64,5 +64,4 @@
 ## 📫 Liên hệ với mình qua:
 
 - ✉️ Email: nthanhtan2004@gmail.com
-- 🔗 Facebook: [https://www.facebook.com/thanh.tan.962560?locale=vi_VN](https://www.facebook.com/ngo.thanh.tan.33282?mibextid=ZbWKwL)
-- 💬 LinkedIn: https://www.linkedin.com/in/ngothanhtan/
+- 🔗 Facebook: https://www.facebook.com/thanh.tan.962560?locale=vi_VN
