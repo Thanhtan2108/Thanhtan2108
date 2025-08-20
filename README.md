@@ -35,4 +35,4 @@
 ## 📫 Liên hệ với mình
 
 - ✉️ Email: [nthanhtan2004@gmail.com](mailto:nthanhtan2004@gmail.com)
-- 🔗 Facebook: [Facebook/ThanhTan](https://www.facebook.com/thanh.tan.962560)
+- 🔗 Facebook: [ThanhTan](https://www.facebook.com/ngo.thanh.tan.33282?locale=vi_VN)
