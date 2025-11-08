@@ -5,9 +5,9 @@
 ---
 
 - 🎓 Sinh viên ngành Công Nghệ Kỹ Thuật Máy Tính tại Trường Đại học Sư Phạm Kỹ Thuật TP.HCM
-- 🛠️ Ngôn ngữ lập trình chính: **C, C++**
+- 🛠️ Ngôn ngữ lập trình chính: **C, C++, Python**
 - 🤖 Đam mê: IoT, hệ thống nhúng
-- 📟 MCU: **ESP32, ESP8266, Arduino, Raspberry Pi**
+- 📟 MCU: **ESP32, ESP8266, Arduino UNO, STM32F103C8T6, Raspberry Pi**
 
 ---
 
